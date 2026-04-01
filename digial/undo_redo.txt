@@ -1,0 +1,126 @@
+WED
+
+	Undo Commands
+	     1.	Count Value
+			 *** 
+	     2.	Count Value
+			 *** 
+	     3.	Insert Node or Bus
+
+
+GED
+
+	Undo Commands
+	     1.	Insert Symbol
+
+
+WED
+
+	Undo Commands
+	     1.	Count Value
+			 *** 
+	     2.	Count Value
+			 *** 
+	     3.	Insert Node or Bus
+
+
+GED
+
+	Undo Commands
+	     1.	Properties
+	     2.	Properties
+	     3.	Insert Symbol
+
+
+WED
+
+	Undo Commands
+	     1.	Count Value
+			 *** 
+	     2.	Count Value
+			 *** 
+	     3.	Count Value
+			 *** 
+	     4.	Insert Node or Bus
+
+
+GED
+
+	Undo Commands
+	     1.	Insert Symbol
+
+
+RPW
+
+	Undo Commands
+	     1.	||Compilation Report||Flow Summary
+
+
+GED
+
+	Undo Commands
+	     1.	Insert Symbol
+
+
+WED
+
+	Undo Commands
+	     1.	Count Value
+			 *** 
+	     2.	Count Value
+			 *** 
+	     3.	Count Value
+			 *** 
+	     4.	Count Value
+			 *** 
+	     5.	Count Value
+			 *** 
+	     6.	Count Value
+			 *** 
+	     7.	Count Value
+			 *** 
+	     8.	Insert Node or Bus
+
+
+WED
+
+	Undo Commands
+	     1.	Count Value
+			 *** 
+	     2.	Count Value
+			 *** 
+	     3.	Count Value
+			 *** 
+	     4.	Insert Node or Bus
+
+
+WED
+
+	Undo Commands
+	     1.	Count Value
+			 *** 
+	     2.	Count Value
+			 *** 
+	     3.	Count Value
+			 *** 
+	     4.	Insert Node or Bus
+
+
+GED
+
+	Undo Commands
+	     1.	Insert Symbol
+
+
+WED
+
+	Undo Commands
+	     1.	Count Value
+			 *** 
+	     2.	Count Value
+			 *** 
+	     3.	Count Value
+			 *** 
+	     4.	Insert Node or Bus
+
+

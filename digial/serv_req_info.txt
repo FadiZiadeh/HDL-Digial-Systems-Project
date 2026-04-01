@@ -1,0 +1,182 @@
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>HDB</sub_system>
+	<file>/quartus/db/hdb/hdb_name_mgr.cpp</file>
+	<line>3494</line>
+	<callstack>
+	0x032385c5: DB_HDB + 0x985c5 (?open_cap_inst@HDB_NAME_MGR@@QAIXPAVHDB_CMP_ACTION_PT_INSTANCE@@@Z + 0x35)
+	</callstack>
+	<error>cap_inst != 0</error>
+	<date>Fri Jan 03 17:42:44 2025</date>
+	<version>Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition</version>
+	<full_error>cap_inst != 0
+Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>HDB</sub_system>
+	<file>/quartus/db/hdb/hdb_name_mgr.cpp</file>
+	<line>3494</line>
+	<callstack>
+	0x032485c5: DB_HDB + 0x985c5 (?open_cap_inst@HDB_NAME_MGR@@QAIXPAVHDB_CMP_ACTION_PT_INSTANCE@@@Z + 0x35)
+	</callstack>
+	<error>cap_inst != 0</error>
+	<date>Fri Jan 03 17:43:19 2025</date>
+	<version>Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition</version>
+	<full_error>cap_inst != 0
+Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>HDB</sub_system>
+	<file>/quartus/db/hdb/hdb_name_mgr.cpp</file>
+	<line>3494</line>
+	<callstack>
+	0x031f85c5: DB_HDB + 0x985c5 (?open_cap_inst@HDB_NAME_MGR@@QAIXPAVHDB_CMP_ACTION_PT_INSTANCE@@@Z + 0x35)
+	</callstack>
+	<error>cap_inst != 0</error>
+	<date>Fri Jan 03 17:46:00 2025</date>
+	<version>Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition</version>
+	<full_error>cap_inst != 0
+Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>HDB</sub_system>
+	<file>/quartus/db/hdb/hdb_name_mgr.cpp</file>
+	<line>3494</line>
+	<callstack>
+	0x032385c5: DB_HDB + 0x985c5 (?open_cap_inst@HDB_NAME_MGR@@QAIXPAVHDB_CMP_ACTION_PT_INSTANCE@@@Z + 0x35)
+	</callstack>
+	<error>cap_inst != 0</error>
+	<date>Fri Jan 03 17:46:25 2025</date>
+	<version>Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition</version>
+	<full_error>cap_inst != 0
+Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>HDB</sub_system>
+	<file>/quartus/db/hdb/hdb_name_mgr.cpp</file>
+	<line>3494</line>
+	<callstack>
+	0x032385c5: DB_HDB + 0x985c5 (?open_cap_inst@HDB_NAME_MGR@@QAIXPAVHDB_CMP_ACTION_PT_INSTANCE@@@Z + 0x35)
+	</callstack>
+	<error>cap_inst != 0</error>
+	<date>Fri Jan 03 17:46:45 2025</date>
+	<version>Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition</version>
+	<full_error>cap_inst != 0
+Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_sim.exe</executable>
+	<sub_system>QUARTUS_SIM</sub_system>
+	<file>/quartus/tsm/sim/sim_cmd.cpp</file>
+	<line>2962</line>
+	<callstack>
+	0x00425e57: quartus_sim + 0x25e57 (??4SIM_TCL_UTILITY@@QAEAAV0@ABV0@@Z + 0x1b877)
+	0x00405172: quartus_sim + 0x5172 (Sim_Uninit + 0x4082)
+	0x004268e3: quartus_sim + 0x268e3 (??4SIM_TCL_UTILITY@@QAEAAV0@ABV0@@Z + 0x1c303)
+	</callstack>
+	<error>sap_inst != 0</error>
+	<date>Fri Jan 03 20:59:22 2025</date>
+	<version>Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition</version>
+	<full_error>sap_inst != 0
+Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>HDB</sub_system>
+	<file>/quartus/db/hdb/hdb_name_mgr.cpp</file>
+	<line>3494</line>
+	<callstack>
+	0x042d85c5: DB_HDB + 0x985c5 (?open_cap_inst@HDB_NAME_MGR@@QAIXPAVHDB_CMP_ACTION_PT_INSTANCE@@@Z + 0x35)
+	</callstack>
+	<error>cap_inst != 0</error>
+	<date>Mon Jan 06 12:01:57 2025</date>
+	<version>Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition</version>
+	<full_error>cap_inst != 0
+Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>HDB</sub_system>
+	<file>/quartus/db/hdb/hdb_name_mgr.cpp</file>
+	<line>3494</line>
+	<callstack>
+	0x032485c5: DB_HDB + 0x985c5 (?open_cap_inst@HDB_NAME_MGR@@QAIXPAVHDB_CMP_ACTION_PT_INSTANCE@@@Z + 0x35)
+	</callstack>
+	<error>cap_inst != 0</error>
+	<date>Mon Jan 06 12:02:51 2025</date>
+	<version>Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition</version>
+	<full_error>cap_inst != 0
+Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>HDB</sub_system>
+	<file>/quartus/db/hdb/hdb_name_mgr.cpp</file>
+	<line>3494</line>
+	<callstack>
+	0x023485c5: DB_HDB + 0x985c5 (?open_cap_inst@HDB_NAME_MGR@@QAIXPAVHDB_CMP_ACTION_PT_INSTANCE@@@Z + 0x35)
+	</callstack>
+	<error>cap_inst != 0</error>
+	<date>Tue Jan 07 13:05:54 2025</date>
+	<version>Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition</version>
+	<full_error>cap_inst != 0
+Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>HDB</sub_system>
+	<file>/quartus/db/hdb/hdb_name_mgr.cpp</file>
+	<line>3494</line>
+	<callstack>
+	0x032385c5: DB_HDB + 0x985c5 (?open_cap_inst@HDB_NAME_MGR@@QAIXPAVHDB_CMP_ACTION_PT_INSTANCE@@@Z + 0x35)
+	</callstack>
+	<error>cap_inst != 0</error>
+	<date>Tue Jan 07 13:10:22 2025</date>
+	<version>Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition</version>
+	<full_error>cap_inst != 0
+Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>HDB</sub_system>
+	<file>/quartus/db/hdb/hdb_name_mgr.cpp</file>
+	<line>3494</line>
+	<callstack>
+	0x032385c5: DB_HDB + 0x985c5 (?open_cap_inst@HDB_NAME_MGR@@QAIXPAVHDB_CMP_ACTION_PT_INSTANCE@@@Z + 0x35)
+	</callstack>
+	<error>cap_inst != 0</error>
+	<date>Tue Jan 07 13:10:45 2025</date>
+	<version>Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition</version>
+	<full_error>cap_inst != 0
+Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition </full_error>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>HDB</sub_system>
+	<file>/quartus/db/hdb/hdb_name_mgr.cpp</file>
+	<line>3494</line>
+	<callstack>
+	0x02e285c5: DB_HDB + 0x985c5 (?open_cap_inst@HDB_NAME_MGR@@QAIXPAVHDB_CMP_ACTION_PT_INSTANCE@@@Z + 0x35)
+	</callstack>
+	<error>cap_inst != 0</error>
+	<date>Tue Jan 07 13:12:24 2025</date>
+	<version>Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition</version>
+	<full_error>cap_inst != 0
+Quartus II Version 9.0 Build 132 02/25/2009 SJ Web Edition </full_error>
+</internal_error>
+
